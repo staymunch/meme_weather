@@ -1,0 +1,30 @@
+memeWeather™ Limited Use License
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated files (the "Software"), to use, copy, modify,
+and distribute the Software for PERSONAL, EDUCATIONAL, AND NON-COMMERCIAL
+purposes only, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+2. Commercial use, including but not limited to selling, sublicensing, or
+   incorporating the Software into a paid product or service, requires
+   prior written permission from the copyright holder.
+
+3. The Software displays meme images fetched at runtime from third-party
+   sources (e.g. Imgflip). All such images remain the intellectual property
+   of their respective creators and rights holders. This license grants
+   no rights to those images. Attributions shown in the app are
+   informational and do not imply endorsement.
+
+4. Redistribution must retain the meme attribution UI; you may not strip
+   or hide the source/creator credits shown beneath each meme card.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
